@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sagar Gupta
 
-🎓 AI and ML Engineering Student  
-🐍 Learning Python, PyCharm, NumPy, and Pandas  
-🚀 Exploring Machine Learning and Data Analysis  
+AI and ML Engineering Student  
+Learning Python, PyCharm, NumPy, and Pandas  
+Exploring Machine Learning and Data Science 
 
 ---
 
